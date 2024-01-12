@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CreditEvaluator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mscards" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msclients" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mscloudgateway" vcs="Git" />
+  </component>
+</project>
